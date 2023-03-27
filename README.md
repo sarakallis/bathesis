@@ -1,3 +1,3 @@
 # Bachelor Thesis
 
-#Data is not currently available.
+Data is not currently available.
